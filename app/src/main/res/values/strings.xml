@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Constraint</string>
+    <string name="tv_one">Text View 1</string>
+    <string name="tv_two">Text View 2</string>
+    <string name="btn_one">Button One</string>
+    <string name="btn_two">Button Two</string>
+</resources>
